@@ -98,7 +98,7 @@ This project aims to:
 | **Mohamed Ehab** | Software Development & Testing | [LinkedIn](https://www.linkedin.com/in/mohamed-ehab-272394323/) |  
 | **Menna Atef** | Project Design | [LinkedIn](https://www.linkedin.com/in/menna-atef-05355b32a/) |  
 | **Nada Mostafa** | Documentation & Report Writing | [LinkedIn](https://www.linkedin.com/in/nada-mostafa-67853b324/) |  
-| **Jana Nour** | Photographer & Presentation | [LinkedIn](https://www.linkedin.com/in/jana-nour-1510bb324/) |  
+| **Jana Nour** |Hardware Setup & Integration   | [LinkedIn](https://www.linkedin.com/in/jana-nour-1510bb324/) |  
 
 ---  
 
