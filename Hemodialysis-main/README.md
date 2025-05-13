@@ -43,6 +43,9 @@ Our system integrates:
 - Ensures immediate shutdown of all operations for safety.
 
 ---
+![image](https://github.com/user-attachments/assets/4da2f65c-e106-4380-805a-bd40b4954a3a)
+![image](https://github.com/user-attachments/assets/99a26cca-a059-4042-a31c-574f4dcef96b)
+
 
 ## 🪄 Bonus Feature: **Posture Monitoring Using Computer Vision**
 - Uses a **custom Python + OpenCV algorithm** to track patient posture.
